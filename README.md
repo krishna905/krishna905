@@ -6,7 +6,8 @@
 - 📫 How to reach me krishnapaduchuri73@gmail.com
 
 ## Connect with me
-[LinkedIn](https://leetcode.com/Krishnavamsipaduchuri/)
+[LeetCode](https://leetcode.com/Krishnavamsipaduchuri/)
+[LinkedIn](https://www.linkedin.com/in/krishnavamsi-paduchuri-839347170/)
 
 <!---
 krishna905/krishna905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
