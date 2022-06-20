@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming stuff 
 - 🌱 I’m currently learning DSA, Web Development Technologies
 - 💬 Ask me about DSA with `Java`
-- 📄 Know about my experiences(https://novoresume.com/editor/resume/73cb4500-3abe-11ea-bbb9-9f9b31337f2a)
+- 📄 [Know about my experiences](https://novoresume.com/editor/resume/73cb4500-3abe-11ea-bbb9-9f9b31337f2a)
 - 📫 How to reach me krishnapaduchuri73@gmail.com
 
 ## Connect with me
